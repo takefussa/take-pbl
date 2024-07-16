@@ -9,7 +9,7 @@ const HelloPage = () => {
         <Flex align="center">
           <Image
             borderRadius="full"
-            boxSize="81px"
+            boxSize="82px"
             src="https://www.wallpaper-box.com/cat/1366768/images/cat167.jpg"
             alt="Cat"
           />
